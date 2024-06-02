@@ -1,4 +1,4 @@
-![Banner GitHub](https://github.com/laksheyjasoria/laksheyjasoria/assets/github-header-image (6).png)
+![Banner GitHub](https://github.com/laksheyjasoria/laksheyjasoria/assets/banner.png)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
