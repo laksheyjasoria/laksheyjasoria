@@ -203,7 +203,7 @@
 
 <hr>
 
-![snake animation](https://github.com/<seu laksheyjasoria>/<seu laksheyjasoria>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/laksheyjasoria/laksheyjasoria/output/snake.svg" alt="Snake animation" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
