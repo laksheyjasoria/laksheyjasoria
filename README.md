@@ -208,10 +208,3 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/laksheyjasoria/output/snake.svg" alt="Snake animation" />
-
-###
