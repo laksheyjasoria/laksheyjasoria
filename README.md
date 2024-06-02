@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/lakshey-kumar-623902218"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Lakshey Kumar" /></a>
   <a href="mailto:lkjasoria0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Lakshey Kumar i.e.   lkjasoria0@gmail.com" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
+  
+  <a href="#"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=hackerearth&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
 <a href="https://www.hackerearth.com/lakshey3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="lakshey3" height="30" width="40" /></a>
 </p>
 </div>
